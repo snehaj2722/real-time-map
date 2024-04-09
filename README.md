@@ -1,1 +1,1 @@
-This project is aimed at creating a real-time map application that provides users with dynamic updates of geographic data. it generated the latitude and longitude of the current location and generates a map of that area.
+This project is aimed at creating a real-time map application that provides users with dynamic updates of geographic data. it generates the latitude and longitude of the current location and generates a map of that area.
